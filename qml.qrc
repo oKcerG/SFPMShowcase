@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>ContactModel.qml</file>
+        <file>AdjacentSection.qml</file>
+        <file>SectionScrollIndicator.qml</file>
+        <file>ContactDelegate.qml</file>
+        <file>star.svg</file>
+        <file>star_border.svg</file>
+        <file>SectionDelegate.qml</file>
+        <file>SearchBar.qml</file>
+        <file>SectionScrollBar.qml</file>
+        <file>ColorImage.qml</file>
+        <file>search.svg</file>
+    </qresource>
+</RCC>
